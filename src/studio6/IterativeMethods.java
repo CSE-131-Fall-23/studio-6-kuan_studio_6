@@ -19,6 +19,16 @@ public class IterativeMethods {
 		}
 		return sum;
 	}
+	
+//	public static double geometricSum(int n) {
+//		if(n==0) { // base line
+//			return 0;
+//		}
+//		else { // recursive step
+//			return Math.pow(0.5, n) + geometricSum(n-1);
+//		}
+//	}
+	
 
 	/**
 	 * @param p first operand
